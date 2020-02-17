@@ -2,6 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [npx create-react-app my-app](https://zh-hant.reactjs.org/docs/create-a-new-react-app.html)
 
+## Deploy
+
+`yarn add gh-pages -D`
+
+package.json
+
+```js
+"homepage": "https://jacobhsu.github.io/react-dexie",
+"scripts": {
+  //...
+  "predeploy": "yarn build",
+  "deploy": "gh-pages -d build"
+}
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
