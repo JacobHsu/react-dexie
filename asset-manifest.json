@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dexie/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-dexie/static/js/main.271e0a29.chunk.js",
+    "main.js.map": "/react-dexie/static/js/main.271e0a29.chunk.js.map",
+    "runtime-main.js": "/react-dexie/static/js/runtime-main.0e45c680.js",
+    "runtime-main.js.map": "/react-dexie/static/js/runtime-main.0e45c680.js.map",
+    "static/js/2.3bd5681c.chunk.js": "/react-dexie/static/js/2.3bd5681c.chunk.js",
+    "static/js/2.3bd5681c.chunk.js.map": "/react-dexie/static/js/2.3bd5681c.chunk.js.map",
+    "index.html": "/react-dexie/index.html",
+    "precache-manifest.7014ae81e0f5e5dbd41e7a3d7c15e7a1.js": "/react-dexie/precache-manifest.7014ae81e0f5e5dbd41e7a3d7c15e7a1.js",
+    "service-worker.js": "/react-dexie/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-dexie/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3bd5681c.chunk.js.LICENSE.txt": "/react-dexie/static/js/2.3bd5681c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-dexie/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e45c680.js",
+    "static/js/2.3bd5681c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.271e0a29.chunk.js"
+  ]
+}
